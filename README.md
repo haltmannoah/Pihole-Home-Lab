@@ -82,7 +82,7 @@ The dashboard confirms that multiple clients are sending DNS traffic through Pi-
 
 The Pi-hole server successfully answered a DNS query on port 53 and returned both IPv4 and IPv6 records.
 
-![DNS resolution test](screenshots/dns-resolution-test.png)
+![DNS resolution test](screenshots/dns-resolution-test.PNG)
 
 ### Service and System Information
 
