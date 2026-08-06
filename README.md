@@ -117,7 +117,3 @@ During testing, I verified each part of the DNS path individually:
 This project helped me better understand how DNS requests move between client devices, a local DNS server, and an upstream provider.
 
 I also learned how to distinguish DNS problems from general network-connectivity problems by testing the client configuration, server availability, service status, port availability, and DNS resolution separately.
-
-## Security and Privacy
-
-Screenshots in this repository have been sanitized to remove passwords, public IP addresses, MAC addresses, personal hostnames, and unnecessary client activity.
